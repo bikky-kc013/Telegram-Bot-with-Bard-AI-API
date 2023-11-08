@@ -1,0 +1,5 @@
+The cookies expire after the certain limit so better to update with the new one.
+Define your own environment variables as I have ignored .env file.
+This is a simple telegram bot which will give response to the user query with the help of the 
+bardApi.
+Email: bharathkc013@gmail.com
